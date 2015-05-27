@@ -1,7 +1,6 @@
 package org.han.stock1.controllers;
 
 
-import java.util.Date;
 
 import org.han.stock1.entities.Barang;
 import org.han.stock1.entities.Transaksi;
