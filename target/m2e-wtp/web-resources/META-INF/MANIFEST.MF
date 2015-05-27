@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: stock1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.han
+Build-Jdk: 1.7.0_60-ea
+Built-By: handiono
+Created-By: Maven Integration for Eclipse
+Main-Class: org.han.stock1.Stock1Application
+
